@@ -17,14 +17,14 @@ Flask ou Tkinter (Interface utilisateur, si besoin).
 Structure du projet :
 
 vulnerability_scanner
-│── scanner.py            
+│- scanner.py            
 Fichier principal
-│── network_scanner.py   
+│- network_scanner.py   
 Scan des machines actives
-│── port_scanner.py        
+│- port_scanner.py        
 Scan des ports ouverts
-│── vulnerability_checker.py  Vérification des vulnérabilités
-│── report_generator.py    Génération du rapport
+│- vulnerability_checker.py  Vérification des vulnérabilités
+│- report_generator.py    Génération du rapport
 
 Cela va :
 ✅ Scanner la plage réseau 192.168.1.0/24
