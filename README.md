@@ -16,7 +16,7 @@ Flask ou Tkinter (Interface utilisateur, si besoin).
 
 Structure du projet :
 
-vulnerability_scanner/
+vulnerability_scanner
 │── scanner.py            
 Fichier principal
 │── network_scanner.py   
